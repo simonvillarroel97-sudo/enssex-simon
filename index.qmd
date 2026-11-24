@@ -14,7 +14,7 @@ Usa la base 1 de la ENSSEX, que está en esta misma carpeta.
 enssex <- read.csv("enssex_base1.csv")
 
 # FILTRO DE EDAD: quien colabora cambia solo estos dos números
-edad_min <- 18
+edad_min <- 25
 edad_max <- 29
 
 # p7 es el estado civil: 1 = Casado(a); 88 y 99 son "No sabe" y "No responde"
